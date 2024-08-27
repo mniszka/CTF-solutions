@@ -1,0 +1,9 @@
+Description:
+This file (garden.jpg) contains more than it seems.
+
+Solution:
+Use a hex editor to find a hidden text
+picoCTF{more_than_m33ts_the_3y3eBdBd2cc}
+
+Explanation:
+jpg is a binary file. It  uses the binary number system to encode information. We need to use binary file editor (hex editor) to see the row content of a file.
