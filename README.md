@@ -1,2 +1,2 @@
 # CTF-solutions
-picoctf.org
+My solutions of cybersecurity exercises from picoctf.org
