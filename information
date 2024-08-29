@@ -1,0 +1,15 @@
+Description:
+Files can always be changed in a secret way. Can you find the flag? cat.jpg
+
+Solution:
+copy link address
+use shell
+wget https://mercury.picoctf.net/static/e5825f58ef798fdd1af3f6013592a971/cat.jpg
+exiftool cat.jpg
+the licence is: cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9
+This is ASCII Base64
+use CyberChef - from Base64
+picoCTF{the_m3tadata_1s_modified}
+
+
+
