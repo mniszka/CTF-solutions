@@ -8,6 +8,7 @@ Copy the link address
 Use a shell to open a link and unzip a file:
 wget https://artifacts.picoctf.net/c_titan/6/unknown.zip 
 unzip unknown.zip
+exiftool ukn_reality.jpg
 then extract the attribution URL:
 cGljb0NURntNRTc0RDQ3QV9ISUREM05fYTZkZjhkYjh9Cg==
 Decode data from an ASCII Base64 string (I used CyberChef):
