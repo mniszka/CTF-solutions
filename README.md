@@ -7,14 +7,14 @@ My solutions to cybersecurity exercises from picoctf.org
 
 
 
-shell
-webshell
+- shell
+- webshell
 
 
 ## bash commands:
-wget - download a file from the web
-unzip - unzip a file
-exiftool- shows the details of a file
+- wget - download a file from the web
+- unzip - unzip a file
+- exiftool- shows the details of a file
 
 
 
