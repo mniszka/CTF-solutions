@@ -7,8 +7,7 @@ My solutions to cybersecurity exercises from picoctf.org
 
 
 
-- shell
-- webshell
+
 
 
 ## bash commands:
@@ -17,5 +16,7 @@ My solutions to cybersecurity exercises from picoctf.org
 - exiftool- shows the details of a file
 
 
-
-Base64 encodes binary data, such as images, audio, or other files, into a text-based format.
+## 
+- Base64 encodes binary data, such as images, audio, or other files, into a text-based format.
+- shell
+- webshell
