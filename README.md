@@ -11,7 +11,7 @@ shell
 webshell
 
 
-### bash commands:
+## bash commands:
 wget - download a file from the web
 unzip - unzip a file
 exiftool- shows the details of a file
