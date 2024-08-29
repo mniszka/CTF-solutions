@@ -1,20 +1,21 @@
 # CTF-solutions
 My solutions to cybersecurity exercises from picoctf.org
 
-Tools I used for doing exercises:
+##Tools I used for doing exercises:
 - bash shell
 - CyberChef- a web app for encryption and encoding data
 
 
 
 shell
+webshell
 
 
-## bash commands:
-wget
-unzip
+### bash commands:
+wget - download a file from the web
+unzip - unzip a file
 exiftool- shows the details of a file
 
 
 
-Base64 is an encoding scheme representing binary data in an ASCII string format.
+Base64 encodes binary data, such as images, audio, or other files, into a text-based format.
