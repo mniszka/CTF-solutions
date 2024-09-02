@@ -1,0 +1,11 @@
+(Web exploitation)
+
+Description:
+Can you get the flag?
+Additional details will be available after launching your challenge instance.
+
+Solution:
+view page source:
+open "style.css" where is the first part of a flag and "script.js" where is the second part.
+
+picoCTF{1nclu51v17y_1of2_f7w_2of2_6edef411}
