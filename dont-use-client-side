@@ -1,0 +1,11 @@
+(web exploitation)
+
+Description
+Can you break into this super secure portal? 
+  https://jupiter.challenges.picoctf.org/problem/29835/ 
+
+
+Solution:
+view page source and then concatenate the segments written in JS
+picoCTF{no_clients_plz_7723ce}
+
