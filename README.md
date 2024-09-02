@@ -5,6 +5,8 @@ My solutions to cybersecurity exercises from picoctf.org
 - bash shell
 - CyberChef- a web app for encryption and encoding data
 - Python
+- JavaScript
+- web inspect
 
 
 
