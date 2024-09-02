@@ -1,0 +1,26 @@
+Description
+The numbers... what do they mean?
+numbers.png
+
+Solution in Python:
+numbers = [16,9, 3, 15, 3, 20, 6, "{", 20, 8, 5, 14, 21, 13, 2, 5, 18, 19, 13, 1, 19, 15, 14, "}"]
+
+letters =  "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+
+result= []
+
+for i in numbers:
+  
+  if isinstance(i, int):
+    new_i = letters[i-1]
+  else:
+    new_i = i
+
+  result.append(new_i)
+  
+new_string = "".join(result)
+
+print(new_string)
+
+Solution:
+PICOCTF{THENUMBERSMASON}
