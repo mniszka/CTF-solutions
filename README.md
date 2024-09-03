@@ -1,5 +1,5 @@
 # CTF-solutions
-My solutions to cybersecurity exercises from picoctf.org
+My solutions to cybersecurity exercises from www.picoctf.org
 
 ## Tools I used for doing exercises:
 - bash shell
