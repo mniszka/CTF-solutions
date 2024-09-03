@@ -1,8 +1,11 @@
+"""
 Description:
 Cryptography can be easy, do you know what ROT13 is? 
 cvpbPGS{arkg_gvzr_V'yy_gel_2_ebhaqf_bs_ebg13_hyLicInt}
 
-A solution in Python:
+output:
+picoCTF{next_time_I'll_try_2_rounds_of_rot13_ulYvpVag}
+"""
 
 string = "cvpbPGS{arkg_gvzr_V'yy_gel_2_ebhaqf_bs_ebg13_hyLicInt}"
 
@@ -29,8 +32,7 @@ new_string = ''.join(result)
 print(new_string)
 
 
-output:
-picoCTF{next_time_I'll_try_2_rounds_of_rot13_ulYvpVag}
+
 
 Explanation:
 ROT13 is a type of Caesar cypher- each letter is replaced by the letter 13 positions ahead of it.
