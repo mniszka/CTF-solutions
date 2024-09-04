@@ -17,6 +17,7 @@ My solutions to cybersecurity exercises from www.picoctf.org
 - wget - download a file from the web
 - unzip - unzip a file
 - exiftool- shows the details of a file
+- grep -r "text" - searches recursively through directories for a specific text in files.
 
 
 ## 
