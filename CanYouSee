@@ -12,4 +12,4 @@ exiftool ukn_reality.jpg
 then extract the attribution URL:
 cGljb0NURntNRTc0RDQ3QV9ISUREM05fYTZkZjhkYjh9Cg==
 Decode data from an ASCII Base64 string (I used CyberChef):
-picoCTF{ME74D47A_HIDD3N_a6df8db8}
+
