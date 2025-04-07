@@ -27,5 +27,4 @@ new_string = ''.join(result)
 
 print(new_string)
 
-Solution:
-picoCTF{not_too_bad_of_a_problem}
+
